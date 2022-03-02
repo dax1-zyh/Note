@@ -13,7 +13,7 @@ cookie和session都用来存储用户信息，cookie存放于客户端有可能�
  - **HTML5**中提出了webStorage的概念，webStorage包括sessionStorage和localStorage，只为了保存数据，不会与服务器进行通信
  - cookie,localStorage,sessionStorage都是在客户端保存数据，存储数据的类型：字符串
  - webStorage不会随着HTTP header发送到服务器端，所以安全性相对来说比cookie高，不必担心截获
- - 生命周期不同（见后文），localStorage要手动清除，sessionStorage在浏览器关闭后清除
+ - 生命周期不同（见后文），cookie可设置失效时间，localStorage要手动清除，sessionStorage在浏览器关闭后清除
 
 ----------
 

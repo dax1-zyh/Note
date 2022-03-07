@@ -42,7 +42,7 @@ SPA的特点
 - 需要后端支持，否则**刷新页面会出现404**。
 
 - 支持API: `history.go()`,`history.back()`,`history.foward()`等
-- 兼容性相对较若
+- 兼容性相对较弱
 
 
 
@@ -288,8 +288,13 @@ const router = new VueRouter({
 })
 ```
 
+## 生命周期
 
+路由组件所独有的两个钩子，用于捕获路由组件的激活状态。
 
+ - `actived` 路由组件被激活时触发
+ - `deactivated` 路由组件失活时触发
 
+## 参考文档
 
-部分搬运 [Vue-Router官方文档](https://router.vuejs.org/zh/guide/)
+ [Vue-Router官方文档](https://router.vuejs.org/zh/guide/)

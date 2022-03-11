@@ -94,4 +94,3 @@ export default {
  - 在JS中访问ref的值需要手动添加`.value`，访问reactive不需要
  - reactive的底层响应式原理是**Proxy**，ref的原理是**defineProperty**
 
-## 

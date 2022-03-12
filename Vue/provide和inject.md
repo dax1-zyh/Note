@@ -26,7 +26,8 @@ Vue的父子间传值 ： `props`
 
 ## 使用场景
 
-![image-20220208151603190](C:\Users\13704\AppData\Roaming\Typora\typora-user-images\image-20220208151603190.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/adfa0e32ed494cae8989dfa0827a4223.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBARGF4MV8=,size_20,color_FFFFFF,t_70,g_se,x_16)
+
 
 
 

@@ -34,7 +34,7 @@
 
 [Vue3computed写法.md](https://github.com/dax1-zyh/Note/blob/main/Vue/Vue3computed写法.md)
 
-[Vue3watch用法.md](https://github.com/dax1-zyh/Note/blob/main/Vue/Vue3watch用法.md)
+[Vue3watch与watchEffect用法.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/Vue/Vue3watch与watchEffect用法.md)
 
 [Vue3属性绑定.md](https://github.com/dax1-zyh/Note/blob/main/Vue/Vue3属性绑定.md)
 

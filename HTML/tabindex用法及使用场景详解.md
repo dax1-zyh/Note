@@ -43,8 +43,9 @@ tabindex接收一个整数作为值，具有不同的结果，具体结果取决
 ```
 
 效果：
+![在这里插入图片描述](https://img-blog.csdnimg.cn/8cdea67b442c479d886612de4fd490ce.webp)
 
-![171828dc7a3c81a9_tplv-t2oaga2asx-watermark](C:\Users\13704\Desktop\171828dc7a3c81a9_tplv-t2oaga2asx-watermark.webp)
+
 
 
 
@@ -59,7 +60,8 @@ tabindex接收一个整数作为值，具有不同的结果，具体结果取决
 
 效果：
 
-![171828dc7a5159c9_tplv-t2oaga2asx-watermark](C:\Users\13704\Desktop\171828dc7a5159c9_tplv-t2oaga2asx-watermark.webp)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2f2ceb4a9d62430b93985f45ccf5a2a2.webp)
+
 
 `tabindex='0'`通常应用在不可聚焦的元素上，让这些元素变得原本就可聚焦一样。
 
@@ -74,7 +76,8 @@ tabindex接收一个整数作为值，具有不同的结果，具体结果取决
 
 效果：
 
-![171828dc7a571f99_tplv-t2oaga2asx-watermark](C:\Users\13704\Desktop\171828dc7a571f99_tplv-t2oaga2asx-watermark.webp)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/56e33be2d0124281a148cc671a9aaeb1.webp)
+
 
 
 
@@ -122,7 +125,7 @@ function openModal() {
 
 通过正值的大小关系调整键盘导航的访问先手顺序
 
-
+----------------
 
 原文搬运 [How and when to use the tabindex attribute](https://bitsofco.de/how-and-when-to-use-the-tabindex-attribute/#fn-1)
 

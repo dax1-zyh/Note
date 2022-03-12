@@ -8,7 +8,8 @@
 
 **通信方式：**
 
-![image-20220217172408247](C:\Users\13704\AppData\Roaming\Typora\typora-user-images\image-20220217172408247.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/758442b6d77a4bda99d4040f45e88c80.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBARGF4MV8=,size_20,color_FFFFFF,t_70,g_se,x_16)
+
 
 
 
@@ -34,7 +35,8 @@ MVP模式将MVC的Controller更名为Presenter
 
 **通信方式：**
 
-![image-20220217172855685](C:\Users\13704\AppData\Roaming\Typora\typora-user-images\image-20220217172855685.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/73b7d51358194190a0c59b1ad3371da2.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBARGF4MV8=,size_20,color_FFFFFF,t_70,g_se,x_16)
+
 
 
 
@@ -54,7 +56,9 @@ MVVM 模式将 Presenter 改名为 ViewModel（视图模型），基本上与 MV
 
 **通信方式**
 
-![image-20220217173230943](C:\Users\13704\AppData\Roaming\Typora\typora-user-images\image-20220217173230943.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/5aa6aed40a8a4a39b2801ff8162a2419.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBARGF4MV8=,size_20,color_FFFFFF,t_70,g_se,x_16)
+
+
 
 唯一的区别是，View和ViewModel之间是**双向绑定**
 

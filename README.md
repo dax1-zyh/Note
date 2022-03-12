@@ -40,7 +40,7 @@
 
 [Vue-Router知识点记录.md](https://github.com/dax1-zyh/Note/blob/main/Vue/Vue-Router知识点记录.md)
 
-[keep-alive用法.md](https://github.com/dax1-zyh/Note/blob/main/Vue/keep-alive 用法.md)
+[keep-alive用法.md](https://github.com/dax1-zyh/Note/blob/main/Vue/keep-alive用法.md)
 
 [Vuex原理、用法、与事件总线区别详解.md](https://github.com/dax1-zyh/Note/blob/main/Vue/Vuex原理、用法、与事件总线区别详解.md)
 
@@ -62,11 +62,11 @@
 
 [Vue3-setup().md](https://github.com/dax1-zyh/Note/blob/main/Vue/Vue3-setup().md)
 
-[Vue3computed写法.md](https://github.com/dax1-zyh/Note/blob/main/Vue/Vue3 computed写法.md)
+[Vue3computed写法.md](https://github.com/dax1-zyh/Note/blob/main/Vue/Vue3computed写法.md)
 
-[Vue3watch用法.md](https://github.com/dax1-zyh/Note/blob/main/Vue/Vue3 watch用法.md)
+[Vue3watch用法.md](https://github.com/dax1-zyh/Note/blob/main/Vue/Vue3watch用法.md)
 
-[Vue3属性绑定.md](https://github.com/dax1-zyh/Note/blob/main/Vue/Vue3 属性绑定.md)
+[Vue3属性绑定.md](https://github.com/dax1-zyh/Note/blob/main/Vue/Vue3属性绑定.md)
 
 [详解Vue3中ref与reactive的用法与区别.md](https://github.com/dax1-zyh/Note/blob/main/Vue/详解Vue3中ref与reactive的用法与区别.md)
 

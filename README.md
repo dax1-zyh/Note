@@ -82,6 +82,8 @@
 
 [TS中any与unknwon的区别.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/TypeScript/TS中any与unknwon的区别.md)
 
+[总结TS常用的编译选项.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/TypeScript/总结TS常用的编译选项.md)
+
 
 
 ## HTML

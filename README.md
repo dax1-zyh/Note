@@ -84,15 +84,17 @@
 
 [总结TS常用的编译选项.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/TypeScript/总结TS常用的编译选项.md)
 
+[动态类型语言与静态类型语言.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/TypeScript/动态类型语言与静态类型语言.md)
 
 
-## HTML
+
+## HTML系列
 
 [tabindex用法及使用场景详解.md](https://github.com/dax1-zyh/Note/blob/main/HTML/tabindex用法及使用场景详解.md)
 
 
 
-## CSS
+## CSS系列
 
 [浅析CSS中scoped属性的作用.md](https://github.com/dax1-zyh/Note/blob/main/CSS/浅析CSS中scoped属性的作用.md)
 

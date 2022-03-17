@@ -116,6 +116,8 @@
 
 [浅析Node中http模块作为服务器和客户端的用法.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/NodeJs/浅析Node中http模块作为服务器和客户端的用法.md)
 
+[浅析NodeJs模块化.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/NodeJs/浅析NodeJs模块化.md)
+
 
 
 

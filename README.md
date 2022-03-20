@@ -100,6 +100,8 @@
 
 [浅析CSS中scoped属性的作用.md](https://github.com/dax1-zyh/Note/blob/main/CSS/浅析CSS中scoped属性的作用.md)
 
+[CSS选择器权重与优先级.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/CSS/CSS选择器权重与优先级.md)
+
 
 
 ## 浏览器与HTTP

@@ -75,6 +75,9 @@
 
 ## 定位方式的比较
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/202b7bc380d843fd8d4058898ecfd5ae.png)
+
+
+
 他们的主要区别在两点上
 
 - 定位基点

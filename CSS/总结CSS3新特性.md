@@ -17,6 +17,7 @@ CSS3中新增了一些选择器，如下图
 
 ### 背景
 **background-clip**
+
 用于确定背景画区，有以下几种可能的属性：
 
 - background-clip: border-box; 背景从border开始显示
@@ -26,7 +27,10 @@ CSS3中新增了一些选择器，如下图
 
 通常情况，背景都是覆盖整个元素的，利用这个属性可以设定背景颜色或图片的覆盖范围
 
+
+
 **background-origin**
+
 当我们设置背景图片时，图片是会以左上角对齐，但是是以border的左上角对齐还是以padding的左上角或者content的左上角对齐? border-origin正是用来设置这个的
 
 - background-origin: border-box; 从border开始计算background-position
@@ -35,6 +39,7 @@ CSS3中新增了一些选择器，如下图
 默认情况是padding-box，即以padding的左上角为原点
 
 **background-size**
+
 background-size属性常用来调整背景图片的大小，主要用于设定图片本身。有以下可能的属性：
 
 - background-size: contain; 缩小图片以适合元素（维持像素长宽比）
@@ -43,6 +48,7 @@ background-size属性常用来调整背景图片的大小，主要用于设定�
 - background-size: 50% 100%; 缩小图片至指定的大小，百分比是相对包 含元素的尺寸
 
 **background-break**
+
 元素可以被分成几个独立的盒子（如使内联元素span跨越多行），background-break 属性用来控制背景怎样在这些不同的盒子中显示
 
 - background-break: continuous; 默认值。忽略盒之间的距离（也就是像元素没有分成多个盒子，依然是一个整体一样）

@@ -94,6 +94,8 @@
 
 [iframe的优缺点总结.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/HTML/iframe的优缺点总结.md)
 
+[Canvas和SVG的异同.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/HTML/Canvas和SVG的异同.md)
+
 
 
 ## CSS系列

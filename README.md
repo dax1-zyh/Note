@@ -76,6 +76,8 @@
 
 [手写Promise.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/手写Promise.md)
 
+[通俗易懂理解原型链.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/通俗易懂理解原型链.md)
+
 
 
 ## TypeScript系列

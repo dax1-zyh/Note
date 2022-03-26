@@ -78,6 +78,8 @@
 
 [通俗易懂理解原型链.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/通俗易懂理解原型链.md)
 
+[new的内部实现流程及手写.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/new的内部实现流程及手写.md)
+
 
 
 ## TypeScript系列

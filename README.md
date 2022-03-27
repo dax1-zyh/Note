@@ -82,7 +82,7 @@
 
 [浅谈JS闭包及使用场景.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/浅谈JS闭包及使用场景.md)
 
-[JS实现类的两种方法（原型和class）.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/JS实现类的两种方法（原型和class）.md)
+[JS实现类和继承.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/JS实现类和继承.md)
 
 
 

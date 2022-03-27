@@ -122,6 +122,8 @@
 
 
 
+
+
 ## TypeScript系列
 
 [TS中any与unknwon的区别.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/TypeScript/TS中any与unknwon的区别.md)
@@ -137,6 +139,8 @@
 ## 手写系列
 
 [手写Promise.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/手写/手写Promise.md)
+
+[节流和防抖的手写及应用场景.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/手写/节流和防抖的手写及应用场景.md)
 
 
 

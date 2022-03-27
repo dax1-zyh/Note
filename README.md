@@ -142,6 +142,8 @@
 
 [节流和防抖的手写及应用场景.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/手写/节流和防抖的手写及应用场景.md)
 
+[手写AJAX.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/手写/手写AJAX.md)
+
 
 
 

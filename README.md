@@ -80,6 +80,8 @@
 
 [new的内部实现流程及手写.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/new的内部实现流程及手写.md)
 
+[浅谈JS闭包及使用场景.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/浅谈JS闭包及使用场景.md)
+
 
 
 ## TypeScript系列

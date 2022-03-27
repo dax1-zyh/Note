@@ -1,3 +1,41 @@
+## JavaScript系列
+
+[JS实现字符串和数组间的相互转换及一道面试题.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/JS实现字符串和数组间的相互转换及一道面试题.md)
+
+[JS表达式与JS语句的区别.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/JS表达式与JS语句的区别.md)
+
+[Set数组操作.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/Set数组操作.md)
+
+[Symbol面试题.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/Symbol面试题.md)
+
+[rest剩余参数用法，与arguments区别.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/rest剩余参数用法，与arguments区别.md)
+
+[关于JS箭头函数中函数体加不加括号的区别.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/关于JS箭头函数中函数体加不加括号的区别.md)
+
+[关于JavaScript中const声明的数组和对象能不能修改.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/关于JavaScript中const声明的数组和对象能不能修改.md)
+
+[判断JS数据类型的四种方法及自定义方法.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/判断JS数据类型的四种方法及自定义方法.md)
+
+[总结ES6中Map和Set的特点与比较.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/总结ES6中Map和Set的特点与比较.md)
+
+[扩展运算符.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/扩展运算符.md)
+
+[详解JavaScript中for...in和for...of区别.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/详解JavaScript中for...in和for...of区别.md)
+
+[详解JavaScript中数组迭代方法(forEach,map,filter等).md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/详解JavaScript中数组迭代方法(forEach%2Cmap%2Cfilter等).md)
+
+[通俗易懂理解原型链.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/通俗易懂理解原型链.md)
+
+[new的内部实现流程及手写.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/new的内部实现流程及手写.md)
+
+[浅谈JS闭包及使用场景.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/浅谈JS闭包及使用场景.md)
+
+[JS实现类和继承.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/JS实现类和继承.md)
+
+
+
+
+
 ## Vue系列
 
 [v-for为什么要加key.md](https://github.com/dax1-zyh/Note/blob/main/Vue/v-for为什么要加key.md)
@@ -48,50 +86,6 @@
 
 
 
-## JavaScript系列
-
-[JS实现字符串和数组间的相互转换及一道面试题.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/JS实现字符串和数组间的相互转换及一道面试题.md)
-
-[JS表达式与JS语句的区别.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/JS表达式与JS语句的区别.md)
-
-[Set数组操作.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/Set数组操作.md)
-
-[Symbol面试题.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/Symbol面试题.md)
-
-[rest剩余参数用法，与arguments区别.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/rest剩余参数用法，与arguments区别.md)
-
-[关于JS箭头函数中函数体加不加括号的区别.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/关于JS箭头函数中函数体加不加括号的区别.md)
-
-[关于JavaScript中const声明的数组和对象能不能修改.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/关于JavaScript中const声明的数组和对象能不能修改.md)
-
-[判断JS数据类型的四种方法及自定义方法.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/判断JS数据类型的四种方法及自定义方法.md)
-
-[总结ES6中Map和Set的特点与比较.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/总结ES6中Map和Set的特点与比较.md)
-
-[扩展运算符.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/扩展运算符.md)
-
-[详解JavaScript中for...in和for...of区别.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/详解JavaScript中for...in和for...of区别.md)
-
-[详解JavaScript中数组迭代方法(forEach,map,filter等).md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/详解JavaScript中数组迭代方法(forEach%2Cmap%2Cfilter等).md)
-
-[通俗易懂理解原型链.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/通俗易懂理解原型链.md)
-
-[new的内部实现流程及手写.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/new的内部实现流程及手写.md)
-
-[浅谈JS闭包及使用场景.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/浅谈JS闭包及使用场景.md)
-
-[JS实现类和继承.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/JS实现类和继承.md)
-
-
-
-## TypeScript系列
-
-[TS中any与unknwon的区别.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/TypeScript/TS中any与unknwon的区别.md)
-
-[总结TS常用的编译选项.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/TypeScript/总结TS常用的编译选项.md)
-
-[动态类型语言与静态类型语言.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/TypeScript/动态类型语言与静态类型语言.md)
-
 
 
 ## HTML系列
@@ -101,6 +95,8 @@
 [iframe的优缺点总结.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/HTML/iframe的优缺点总结.md)
 
 [Canvas和SVG的异同.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/HTML/Canvas和SVG的异同.md)
+
+
 
 
 
@@ -126,9 +122,31 @@
 
 
 
+## TypeScript系列
+
+[TS中any与unknwon的区别.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/TypeScript/TS中any与unknwon的区别.md)
+
+[总结TS常用的编译选项.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/TypeScript/总结TS常用的编译选项.md)
+
+[动态类型语言与静态类型语言.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/TypeScript/动态类型语言与静态类型语言.md)
+
+
+
+
+
+## 手写系列
+
+[手写Promise.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/手写/手写Promise.md)
+
+
+
+
+
 ## 浏览器与HTTP
 
 [详解cookie，session，localStorage，sessionStorage的区别](https://github.com/dax1-zyh/Note/blob/main/浏览器与HTTP/详解cookie，session，localStorage，sessionStorage的区别.md)
+
+
 
 
 
@@ -149,6 +167,8 @@
 ## 框架
 
 [图解MVC、MVP、MVVM.md](https://github.com/dax1-zyh/Note/blob/main/框架/图解MVC、MVP、MVVM.md)
+
+
 
 
 

@@ -74,8 +74,6 @@
 
 [详解JavaScript中数组迭代方法(forEach,map,filter等).md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/详解JavaScript中数组迭代方法(forEach%2Cmap%2Cfilter等).md)
 
-[手写Promise.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/手写Promise.md)
-
 [通俗易懂理解原型链.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/通俗易懂理解原型链.md)
 
 [new的内部实现流程及手写.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/new的内部实现流程及手写.md)

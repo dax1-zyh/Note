@@ -84,6 +84,8 @@
 
 [Vue3customRef使用方法.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/Vue/Vue3customRef使用方法.md)
 
+[Vue3相对于Vue2有什么特点.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/Vue/Vue3相对于Vue2有什么特点.md)
+
 
 
 

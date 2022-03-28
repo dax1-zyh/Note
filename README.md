@@ -156,6 +156,8 @@
 
 [详解cookie，session，localStorage，sessionStorage的区别](https://github.com/dax1-zyh/Note/blob/main/浏览器与HTTP/详解cookie，session，localStorage，sessionStorage的区别.md)
 
+[GET与POST区别详解.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/浏览器与HTTP/GET与POST区别详解.md)
+
 
 
 

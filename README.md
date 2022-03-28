@@ -158,6 +158,8 @@
 
 [GET与POST区别详解.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/浏览器与HTTP/GET与POST区别详解.md)
 
+[深入理解强缓存与协商缓存.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/浏览器与HTTP/深入理解强缓存与协商缓存.md)
+
 
 
 

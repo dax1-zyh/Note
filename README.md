@@ -32,6 +32,8 @@
 
 [JS实现类和继承.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/JS实现类和继承.md)
 
+[详解var,let,const.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/详解var%2Clet%2Cconst.md)
+
 
 
 

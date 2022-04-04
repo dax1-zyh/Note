@@ -176,6 +176,8 @@
 
 [一些前端性能优化的方法.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/浏览器与HTTP/一些前端性能优化的方法.md)
 
+[详解CDN.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/浏览器与HTTP/详解CDN.md)
+
 
 
 

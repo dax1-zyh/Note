@@ -204,6 +204,10 @@
 
 [浅析NodeJs模块化.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/NodeJs/浅析NodeJs模块化.md)
 
+[CommonJS和ES6模块化的区别.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/NodeJs/CommonJS和ES6模块化的区别.md)
+
+
+
 
 
 ## 算法

@@ -102,6 +102,8 @@
 
 [Canvas和SVG的异同.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/HTML/Canvas和SVG的异同.md)
 
+[DOCTYPE的作用.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/HTML/DOCTYPE的作用.md)
+
 
 
 

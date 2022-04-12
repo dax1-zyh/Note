@@ -104,6 +104,8 @@
 
 [DOCTYPE的作用.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/HTML/DOCTYPE的作用.md)
 
+[详解defer和async异步加载的区别.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/HTML/详解defer和async异步加载的区别.md)
+
 
 
 

@@ -14,6 +14,8 @@
 
 [关于JavaScript中const声明的数组和对象能不能修改.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/关于JavaScript中const声明的数组和对象能不能修改.md)
 
+[Javascript数据类型及存储位置.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/Javascript数据类型及存储位置.md)
+
 [判断JS数据类型的四种方法及自定义方法.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/判断JS数据类型的四种方法及自定义方法.md)
 
 [总结ES6中Map和Set的特点与比较.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/总结ES6中Map和Set的特点与比较.md)

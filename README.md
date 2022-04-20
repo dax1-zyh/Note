@@ -24,6 +24,8 @@
 
 [详解JavaScript中for...in和for...of区别.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/详解JavaScript中for...in和for...of区别.md)
 
+[解析JS数组方法splice和slice.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/解析JS数组方法splice和slice.md)
+
 [详解JavaScript中数组迭代方法(forEach,map,filter等).md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/详解JavaScript中数组迭代方法(forEach%2Cmap%2Cfilter等).md)
 
 [通俗易懂理解原型链.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/通俗易懂理解原型链.md)

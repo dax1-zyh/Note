@@ -30,6 +30,8 @@
 
 [call,apply,bind的区别.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/call%2Capply%2Cbind的区别.md)
 
+[前端跨域问题及解决方案.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/前端跨域问题及解决方案.md)
+
 [通俗易懂理解原型链.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/通俗易懂理解原型链.md)
 
 [new的内部实现流程及手写.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/new的内部实现流程及手写.md)

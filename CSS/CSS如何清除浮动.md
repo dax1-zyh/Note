@@ -1,6 +1,6 @@
 ## 方法一，给父元素加上.clearfix
 ```css
-.clearfix:after{
+.clearfix::after{
 	content: '';
 	display: block; /*或者table*/
 	clear: both;

@@ -50,6 +50,8 @@
 
 [v-for为什么要加key.md](https://github.com/dax1-zyh/Note/blob/main/Vue/v-for为什么要加key.md)
 
+[vue中插值表达式、v-text、v-html的区别与用法.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/Vue/vue中插值表达式、v-text、v-html的区别与用法.md)
+
 [v-model在自定义组件中的作用.md](https://github.com/dax1-zyh/Note/blob/main/Vue/v-model在自定义组件中的作用.md)
 
 [解析created和mounted区别与使用场景.md](https://github.com/dax1-zyh/Note/blob/main/Vue/解析created和mounted区别与使用场景.md)

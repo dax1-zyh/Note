@@ -10,17 +10,29 @@ cookie和session都用来存储用户信息，cookie存放于客户端有可能�
 
 
 ## cookie，sessionStorage，localStorage 区别
- - **HTML5**中提出了webStorage的概念，webStorage包括sessionStorage和localStorage，只为了保存数据，不会与服务器进行通信
- - cookie,localStorage,sessionStorage都是在客户端保存数据，存储数据的类型：字符串
- - webStorage不会随着HTTP header发送到服务器端，所以安全性相对来说比cookie高，不必担心截获
- - 生命周期不同（见后文），localStorage要手动清除，sessionStorage在浏览器关闭后清除
+ - HTML5中提出了**webStorage**的概念，webStorage包括sessionStorage和localStorage，**只为了保存数据，不会与服务器进行通信**
 
+ - cookie,localStorage,sessionStorage都是在**客户端**（本地）保存数据，存储数据的类型：字符串
+
+ - cookie会随着HTTP请求发送到服务器，webStorage不会随着HTTP发送到服务器端，所以**安全性**相对来说比cookie高，不必担心截获
+
+ - webStorage拥有更大的存储量，cookie大小限制4kb，webStorage达到**5M或更大**
+
+ - webStorage拥有`setItem,getItem,removeItem,clear`等api，cookie需要自己封装
+
+ - **生命周期不同**（见后文），localStorage要手动清除，sessionStorage在浏览器关闭后清除
+
+   
 
 ## 生命周期
 
  - cookie ：可设置失效时间，否则默认为关闭浏览器后消失
+
  - localStorage ：除非被手动清除，否则永久保存
+
  - sessionStorage：仅在当前网页会话下有效，关闭页面或浏览器后就会被清除
+
+   
 
  ## API
 

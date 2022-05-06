@@ -42,6 +42,8 @@
 
 [详解var,let,const.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/详解var%2Clet%2Cconst.md)
 
+[fetch和AJAX的区别.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/fetch和AJAX的区别.md)
+
 
 
 

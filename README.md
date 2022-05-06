@@ -230,6 +230,8 @@
 
 ## WebPack系列
 
+[webpack中loader和plugin区别.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/WebPack/webpack中loader和plugin区别.md)
+
 [webpack前端优化方案.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/WebPack/webpack前端优化方案.md)
 
 [Vite对于Webpack的优势.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/WebPack/Vite对于Webpack的优势.md)

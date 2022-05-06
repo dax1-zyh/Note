@@ -100,8 +100,6 @@
 
 [修改Element-UI样式的几种方式.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/Vue/修改Element-UI样式的几种方式.md)
 
-[Vite对于Webpack的优势.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/Vue/Vite对于Webpack的优势.md)
-
 [Vue性能优化方案.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/Vue/Vue性能优化方案.md)
 
 

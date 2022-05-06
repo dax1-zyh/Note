@@ -102,6 +102,8 @@
 
 [Vue性能优化方案.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/Vue/Vue性能优化方案.md)
 
+[Vue父子组件生命周期的执行顺序.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/Vue/Vue父子组件生命周期的执行顺序.md)
+
 
 
 

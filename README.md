@@ -6,8 +6,6 @@
 
 [Set数组操作.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/Set数组操作.md)
 
-[Symbol面试题.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/Symbol面试题.md)
-
 [rest剩余参数用法，与arguments区别.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/rest剩余参数用法，与arguments区别.md)
 
 [关于JS箭头函数中函数体加不加括号的区别.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/关于JS箭头函数中函数体加不加括号的区别.md)
@@ -21,6 +19,8 @@
 [总结ES6中Map和Set的特点与比较.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/总结ES6中Map和Set的特点与比较.md)
 
 [扩展运算符.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/扩展运算符.md)
+
+[详解Symbol.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/详解Symbol.md)
 
 [详解JavaScript中for...in和for...of区别.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/详解JavaScript中for...in和for...of区别.md)
 

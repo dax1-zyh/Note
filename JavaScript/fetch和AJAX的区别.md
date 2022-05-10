@@ -72,4 +72,4 @@ fetch(
 }
 ```
 
-在这里，fetch会和setTimeout同时执行，因为fetch是异步的，不会堵塞后面setTimeout的执行。
+在这里，fetch会和setTimeout同时执行，因为fetch是异步的，不会堵塞后面setTimeout的执行

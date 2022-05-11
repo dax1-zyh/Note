@@ -1,7 +1,5 @@
 ## JavaScript系列
 
-[JS实现字符串和数组间的相互转换及一道面试题.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/JS实现字符串和数组间的相互转换及一道面试题.md)
-
 [JS表达式与JS语句的区别.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/JS表达式与JS语句的区别.md)
 
 [Set数组操作.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/Set数组操作.md)
@@ -11,6 +9,8 @@
 [关于JS箭头函数中函数体加不加括号的区别.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/关于JS箭头函数中函数体加不加括号的区别.md)
 
 [关于JavaScript中const声明的数组和对象能不能修改.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/关于JavaScript中const声明的数组和对象能不能修改.md)
+
+[JS实现字符串和数组间的相互转换.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/JS实现字符串和数组间的相互转换.md)
 
 [Javascript数据类型及存储位置.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/Javascript数据类型及存储位置.md)
 

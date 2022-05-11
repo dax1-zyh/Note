@@ -42,7 +42,7 @@ console.log(Array.from([1, 2, 3], x => x + x));
 
 
 ## 数组转字符串
-### Array.join()
+### 1.Array.join()
 join() 方法将数组作为字符串返回。
 
 元素将由指定的分隔符分隔。默认分隔符是逗号 (,)
@@ -54,6 +54,21 @@ const fruits = ["Banana", "Orange", "Apple", "Mango"];
 const energy = fruits.join();
 console.log(energy) //"Banana,Orange,Apple,Mango"
 ```
+
+
+
+### 2.Array.toString()
+
+toString() 返回一个字符串，表示指定的数组及其元素。
+
+```javascript
+const array1 = [1, 2, 'a', '1a'];
+
+console.log(array1.toString());
+// expected output: "1,2,a,1a"
+```
+
+
 
 ## 面试题
 

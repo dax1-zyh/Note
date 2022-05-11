@@ -44,6 +44,8 @@
 
 [fetch和AJAX的区别.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/fetch和AJAX的区别.md)
 
+[浅谈箭头函数.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/浅谈箭头函数.md)
+
 
 
 

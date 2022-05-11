@@ -1,7 +1,7 @@
 ## 前言
-在ECMAScript规范中，一共有7中数据类型，分为基本类型和引用类型（复杂类型），
+在ECMAScript规范中，一共有8种数据类型，分为基本类型和引用类型（复杂类型），
 
- - 基本类型：String,Number,Boolean,Symbol,Null,Undefined
+ - 基本类型：String,Number,Boolean,Symbol,Bigint,Null,Undefined
  - 引用类型：Object
 
 ## 方法一，typeof()

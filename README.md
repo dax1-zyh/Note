@@ -108,6 +108,8 @@
 
 [Vue父子组件生命周期的执行顺序.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/Vue/Vue父子组件生命周期的执行顺序.md)
 
+[谈谈Vue常用的修饰符.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/Vue/谈谈Vue常用的修饰符.md)
+
 
 
 

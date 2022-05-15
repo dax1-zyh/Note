@@ -46,6 +46,8 @@
 
 [浅谈箭头函数.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/浅谈箭头函数.md)
 
+[浅谈async,await.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/浅谈async%2Cawait.md)
+
 
 
 

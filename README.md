@@ -48,6 +48,8 @@
 
 [浅谈async,await.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/浅谈async%2Cawait.md)
 
+[JS数组去重的几种方法.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/JS数组去重的几种方法.md)
+
 
 
 

@@ -226,6 +226,8 @@
 
 [详解正向代理与反向代理.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/浏览器与HTTP/详解正向代理与反向代理.md)
 
+[HTTP请求头中Referer的作用.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/浏览器与HTTP/HTTP请求头中Referer的作用.md)
+
 
 
 

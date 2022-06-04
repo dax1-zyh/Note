@@ -203,4 +203,8 @@ foo = {}; // TypeError: "foo" is read-only
 ```
 上面代码中，常量foo储存的是一个地址，这个地址指向一个对象。不可变的只是这个地址，即**不能把foo指向另一个地址**，**但对象本身是可变的**，所以依然可以为其**添加新属性**。
 
-部分摘自 [阮一峰博客](https://es6.ruanyifeng.com/#docs/let)
+
+
+## 参考文档
+
+[阮一峰博客](https://es6.ruanyifeng.com/#docs/let)

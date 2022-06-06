@@ -38,6 +38,8 @@
 
 [浅谈JS闭包及使用场景.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/浅谈JS闭包及使用场景.md)
 
+[作用域和作用域链.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/作用域和作用域链.md)
+
 [JS实现类和继承.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/JS实现类和继承.md)
 
 [详解var,let,const.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/详解var%2Clet%2Cconst.md)

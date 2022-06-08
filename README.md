@@ -230,6 +230,8 @@
 
 [HTTP请求头中Referer的作用.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/浏览器与HTTP/HTTP请求头中Referer的作用.md)
 
+[前端SEO解决方案.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/浏览器与HTTP/前端SEO解决方案.md)
+
 
 
 

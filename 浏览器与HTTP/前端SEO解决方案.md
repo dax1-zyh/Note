@@ -77,7 +77,7 @@ SEO是一种透过了解搜索引擎的运作规则来调整网站，以及提�
 
 将logo以`<a>`标签中背景图片的形式插入，同时又有关键字内容，有利于搜索引擎爬取内容。
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/ba6f9bae87374dd6828500271d97d248.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/58429250a31d49afa72570ad80c3e8f4.png)
 
 
 

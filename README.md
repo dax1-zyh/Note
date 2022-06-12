@@ -52,6 +52,8 @@
 
 [JS数组去重的几种方法.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/JS数组去重的几种方法.md)
 
+[浅谈substr(),substring(),slice()的用法区别.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/浅谈substr()%2Csubstring()%2Cslice()的用法区别.md)
+
 
 
 

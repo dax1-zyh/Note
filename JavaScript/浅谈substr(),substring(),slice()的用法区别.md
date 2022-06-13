@@ -1,9 +1,9 @@
 ## 1 三者区别
-- `substr(start,length)`返回从指定下标开始的长度为`length`的字符，可以为负数
+- `substr(start,length)`返回从指定下标开始的长度为`length`的`字符`，可以为负数
 
-- `substring(start,end)`返回指定下标间的字符，包含start，不包含end
-
-- `slice(start,end)`返回指定下标间的字符，包含start，不包含end
+- `substring(start,end)`返回指定下标间的`字符`，包含start，不包含end
+- `slice(start,end)`返回指定下标间的`数组元素`，包含start，不包含end
+- `substr`和`substring`是String方法，`slice`是数组方法
 
   
 

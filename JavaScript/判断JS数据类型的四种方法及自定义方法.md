@@ -58,7 +58,7 @@ console.log(haoxl instanceof Person);// true
 instance of 不能区别Null和Undefined
 
 ## 方法三，constructor
-undefined和null没有contructor属性
+undefined和null没有constructor属性
 
 ```javascript
 console.log(bool.constructor === Boolean);// true

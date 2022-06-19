@@ -82,6 +82,8 @@
 
 [获取到token后的路由跳转.md](https://github.com/dax1-zyh/Note/blob/main/Vue/获取到token后的路由跳转.md)
 
+[详解为什么v-if和v-for不能同时使用.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/Vue/详解为什么v-if和v-for不能同时使用.md)
+
 [Vue中nextTick的用法与使用场景.md](https://github.com/dax1-zyh/Note/blob/main/Vue/Vue中nextTick的用法与使用场景.md)
 
 [浅谈vue插槽(slot)的分类与用法.md](https://github.com/dax1-zyh/Note/blob/main/Vue/浅谈vue插槽(slot)的分类与用法.md)

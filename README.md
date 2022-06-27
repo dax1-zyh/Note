@@ -54,6 +54,10 @@
 
 [浅谈substr(),substring(),slice()的用法区别.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/浅谈substr()%2Csubstring()%2Cslice()的用法区别.md)
 
+[Promise知识点拾遗.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/Promise%E7%9F%A5%E8%AF%86%E7%82%B9%E6%8B%BE%E9%81%97.md "Promise知识点拾遗.md")
+
+
+
 ## Vue系列
 
 [v-for为什么要加key.md](https://github.com/dax1-zyh/Note/blob/main/Vue/v-for为什么要加key.md)

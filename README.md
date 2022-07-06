@@ -16,6 +16,8 @@
 
 [判断JS数据类型的四种方法及自定义方法.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/判断JS数据类型的四种方法及自定义方法.md)
 
+[JS中为什么基础数据类型可以调用方法.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/JS%E4%B8%AD%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%8F%AF%E4%BB%A5%E8%B0%83%E7%94%A8%E6%96%B9%E6%B3%95.md) 
+
 [总结ES6中Map和Set的特点与比较.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/总结ES6中Map和Set的特点与比较.md)
 
 [扩展运算符.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/扩展运算符.md)

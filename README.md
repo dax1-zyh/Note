@@ -10,6 +10,8 @@
 
 [关于JavaScript中const声明的数组和对象能不能修改.md](https://github.com/dax1-zyh/Note/blob/main/JavaScript/关于JavaScript中const声明的数组和对象能不能修改.md)
 
+[JS判断一个对象是否为空.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/JS%E5%88%A4%E6%96%AD%E4%B8%80%E4%B8%AA%E5%AF%B9%E8%B1%A1%E6%98%AF%E5%90%A6%E4%B8%BA%E7%A9%BA.md) 
+
 [JS实现字符串和数组间的相互转换.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/JS实现字符串和数组间的相互转换.md)
 
 [Javascript数据类型及存储位置.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/Javascript数据类型及存储位置.md)

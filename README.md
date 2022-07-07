@@ -212,6 +212,8 @@
 
 [浅谈HTTP1.x与HTTP2.0的区别.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/浏览器与HTTP/浅谈HTTP1.x与HTTP2.0的区别.md)
 
+[如何理解区分HTTP状态码401和403.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%8EHTTP/%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E5%8C%BA%E5%88%86HTTP%E7%8A%B6%E6%80%81%E7%A0%81401%E5%92%8C403.md) 
+
 [XSS攻击与CSRF攻击.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/浏览器与HTTP/XSS攻击与CSRF攻击.md)
 
 [谈谈进程与线程.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/浏览器与HTTP/谈谈进程与线程.md)

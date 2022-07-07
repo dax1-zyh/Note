@@ -23,7 +23,7 @@
 
 ## 3. Object.keys()
 
-利用`Object.keys()`返回一个由给定对象的自身**可枚举属性**组成的数组，若返回一个空数组，则给定对象为空对象。
+利用`Object.keys()`返回一个由给定对象的自身属性组成的数组，若返回一个空数组，则给定对象为空对象。
 ```javascript
         function fn3(obj) {
             return Object.keys(obj).length === 0 ? '空' : '非空'

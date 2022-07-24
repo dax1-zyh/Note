@@ -241,7 +241,7 @@ module.exports = {
 - **minChunks**：被引入的次数，默认是1
 
 ## 8.内联chunk
-可以通过`InlineChunkHtmlPlugin`插件将一些chunk的模块内联到html，如runtime的代码（对模块进行解析、加载、模块信息相关的代码），代码量并不大，但是必须加载的
+可以通过`InlineChunkHtmlPlugin`插件将一些chunk的模块内联到html，如runtime的代码（对模块进行解析、加载、模块信息相关的代码），代码量并不大，但是必须加载的。
 
 ```javascript
 const InlineChunkHtmlPlugin = require('react-dev-utils/InlineChunkHtmlPlugin')

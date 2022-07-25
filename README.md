@@ -60,6 +60,9 @@
 
 [Promise知识点拾遗.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/Promise%E7%9F%A5%E8%AF%86%E7%82%B9%E6%8B%BE%E9%81%97.md "Promise知识点拾遗.md")
 
+[谈谈DOM0，DOM1，DOM2，DOM3.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/JavaScript/谈谈DOM0，DOM1，DOM2，DOM3.md)
+
+
 
 
 ## Vue系列

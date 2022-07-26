@@ -1,7 +1,7 @@
 ## Vue2.x vs Vue3.x
 
  - Vue2中响应式是通过`defineProperty`实现的
- - Vue3中reactive方法的响应式是通过ES6的`Proxy`实现的
+ - Vue3中响应式是通过ES6的`Proxy`实现的
  - Vue3中实现响应式数据的方法是`ref和reactive`
 
 ## reactive
@@ -56,12 +56,12 @@ const num = reactive(100)
 ### 特点
 
  - ref的参数一般是基本数据类型，也可以是对象类型
- - 如果参数是对象类型，其实底层的本质还是reactive，系统会自动将ref转换为ref，例如
+ - 如果参数是对象类型，其实底层的本质还是reactive，系统会自动将ref转换为reactive，例如
 
  	`ref(1) ===> reactive({value:1})`
 
  - 在模板中访问ref中的数据，系统会自动帮我们添加`.value`,在JS中访问ref中的数据，需要手动添加`.value`
- - ref响应式原理是依赖于`defineProperty的get和set`
+ - ref的底层原理同reactive一样，都是Proxy
 
  ### 使用方法
 
@@ -92,7 +92,4 @@ export default {
 
  - reactive参数一般接受**对象或数组**，是深层次的响应式。ref参数一般接收**简单数据类型**，若ref接收对象为参数，本质上会转变为reactive方法
  - 在JS中访问ref的值需要手动添加`.value`，访问reactive不需要
- - reactive的底层响应式原理是**Proxy**，ref的原理是**defineProperty**
-
-
-
+ - 响应式的底层原理都是Proxy

@@ -239,6 +239,8 @@
 
 [前端SEO解决方案.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/浏览器与HTTP/前端SEO解决方案.md)
 
+[总结前端高并发优化方案.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/浏览器与HTTP/总结前端高并发优化方案.md)
+
 ## NodeJs系列
 
 [初识Nodejs文件模块fs.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/NodeJs/初识Nodejs文件模块fs.md)

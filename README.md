@@ -153,8 +153,6 @@
 
 
 
-
-
 ## CSS系列
 
 [浅析CSS中scoped属性的作用.md](https://github.com/dax1-zyh/Note/blob/main/CSS/浅析CSS中scoped属性的作用.md)
@@ -185,6 +183,8 @@
 
 [CSS隐藏元素的方法.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/CSS/CSS隐藏元素的方法.md)
 
+
+
 ## TypeScript系列
 
 [TS中any与unknwon的区别.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/TypeScript/TS中any与unknwon的区别.md)
@@ -192,6 +192,8 @@
 [总结TS常用的编译选项.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/TypeScript/总结TS常用的编译选项.md)
 
 [动态类型语言与静态类型语言.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/TypeScript/动态类型语言与静态类型语言.md)
+
+
 
 ## 手写系列
 
@@ -206,6 +208,8 @@
 [JS实现可拖拽div.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/手写/JS实现可拖拽div.md)
 
 [js解析url中的参数.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/手写/js解析url中的参数.md)
+
+
 
 ## 浏览器与HTTP
 
@@ -241,6 +245,8 @@
 
 [总结前端高并发优化方案.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/浏览器与HTTP/总结前端高并发优化方案.md)
 
+
+
 ## NodeJs系列
 
 [初识Nodejs文件模块fs.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/NodeJs/初识Nodejs文件模块fs.md)
@@ -253,6 +259,8 @@
 
 [CommonJS和ES6模块化的区别.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/NodeJs/CommonJS和ES6模块化的区别.md)
 
+
+
 ## WebPack系列
 
 [webpack中loader和plugin区别.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/WebPack/webpack中loader和plugin区别.md)
@@ -260,6 +268,14 @@
 [webpack前端优化方案.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/WebPack/webpack前端优化方案.md)
 
 [Vite对于Webpack的优势.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/WebPack/Vite对于Webpack的优势.md)
+
+
+
+## 疑难杂症
+
+[vue启动报错,listen EADDRINUSE,address already in use.](https://github.com/dax1-zyh/Steps-to-Master/blob/main/疑难杂症/vue启动报错%2Clisten EADDRINUSE%2Caddress already in use.md)
+
+
 
 ## 算法
 
@@ -269,9 +285,13 @@
 
 [无重复字符的最长子串.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/算法/无重复字符的最长子串.md)
 
+
+
 ## 框架
 
 [图解MVC、MVP、MVVM.md](https://github.com/dax1-zyh/Note/blob/main/框架/图解MVC、MVP、MVVM.md)
+
+
 
 ## 红宝书阅读笔记
 

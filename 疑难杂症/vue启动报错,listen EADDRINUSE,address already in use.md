@@ -7,6 +7,8 @@ vue项目启动，`npm run dev`之后报错如图
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/914620e79a514ebeb48b972c718ad064.png)
 
+
+
 ## 原因分析
 
 启动服务的地址端口已被占用，需要kill目标进程

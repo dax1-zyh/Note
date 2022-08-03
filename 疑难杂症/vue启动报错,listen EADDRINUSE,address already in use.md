@@ -1,5 +1,5 @@
 ## 报错场景
-vue项目启动，`npm run dev`之后报错如图
+vue项目启动，`npm run dev`之后报错如图：
 
 ```javascript
 【Error: listen EADDRINUSE: address already in use :::8099】

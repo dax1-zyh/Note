@@ -209,6 +209,8 @@
 
 [js解析url中的参数.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/手写/js解析url中的参数.md)
 
+[async-pool实现控制并发请求.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/手写/async-pool实现控制并发请求.md)
+
 
 
 ## 浏览器与HTTP

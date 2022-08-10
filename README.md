@@ -131,6 +131,8 @@
 
 [解决iview中tooltip文字显示不下的问题.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/Vue/解决iview中tooltip文字显示不下的问题.md)
 
+[浅谈路由懒加载的实现与原理.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/Vue/浅谈路由懒加载的实现与原理.md)
+
 
 
 ## React系列

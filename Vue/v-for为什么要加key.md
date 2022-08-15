@@ -197,11 +197,15 @@ key: 3  id: 3 index: 2 name: test3     key: 2  id: 2 index: 2  name: test2
 diff算法的处理方法，对操作前后的dom树同一层的节点进行对比，一层一层对比
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/e59bb27f3c04494f8e738d12d3cc77a1.png)
+
 在以下的使用场景：
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/e42f9b5f8e584a0f952479ee9f668c34.png)
+
 我们希望可以在B和C之间加一个F，Diff算法默认执行起来是这样的：
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/42da3d12a5e64b509b3cb9ac85f8760f.png)
+
 即把C更新成F，D更新成C，E更新成D，最后再插入E，是不是很没有效率？
 
 所以我们需要使用key来给每个节点做一个唯一标识，Diff算法就可以正确的识别此节点，找到正确的位置区插入新的节点。

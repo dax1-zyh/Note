@@ -3,7 +3,7 @@
 
 - `substring(start,end)`返回指定下标间的`字符`，包含start，不包含end
 - `slice(start,end)`返回指定下标间的`数组元素`，包含start，不包含end
-- `substr`和`substring`是String方法，`slice`是数组方法
+- `substr`和`substring`是字符串特有的方法，`slice`既是数组方法，也是字符串方法
 
   
 

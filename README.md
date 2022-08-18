@@ -67,6 +67,8 @@
 
 ## Vue系列
 
+[10分钟读懂数据响应式和双向绑定原理.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/Vue/10分钟读懂数据响应式和双向绑定原理.md)
+
 [v-for为什么要加key.md](https://github.com/dax1-zyh/Note/blob/main/Vue/v-for为什么要加key.md)
 
 [vue中插值表达式、v-text、v-html的区别与用法.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/Vue/vue中插值表达式、v-text、v-html的区别与用法.md)

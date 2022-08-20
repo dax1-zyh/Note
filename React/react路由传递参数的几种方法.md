@@ -16,7 +16,7 @@
   - 注册路由（无需声明接收）：`<Route path='/demo/test' component={Test} />`
   - 接收参数：`this.props.location.query`
   - 优点：可以传递对象
-  - 缺点：`HashRouter`刷新地址栏，参数丢失，`BrowserRouter`不会丢失参数
+  - 缺点：`HashRouter`刷新地址栏，参数丢失，`BrowserRouter`不会丢失参数。
 
 
   ## state参数
@@ -24,4 +24,4 @@
   - 注册路由（无需声明接收）：`<Route path='/demo/test' component={Test} />`
   - 接收参数：`this.props.location.state`
   - 优点：可以传递对象
-  - 缺点：`HashRouter`刷新地址栏，参数丢失，`BrowserRouter`不会丢失参数
+  - 缺点：`HashRouter`刷新地址栏，参数丢失，`BrowserRouter`不会丢失参数。

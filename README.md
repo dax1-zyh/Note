@@ -141,6 +141,8 @@
 
 [React JSX语法规则.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/React/React%20JSX%E8%AF%AD%E6%B3%95%E8%A7%84%E5%88%99.md) 
 
+[react指定ref的三种方式.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/React/react指定ref的三种方式.md)
+
 [react路由传递参数的几种方法.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/React/react路由传递参数的几种方法.md)
 
 

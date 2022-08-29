@@ -19,7 +19,6 @@
 2. Controller完成业务逻辑之后，要求Model更新数据
 3. Model将新数据发送给View，要求View更新，更新后用户得到反馈
 
-**典型框架：react**
 
 **注意：MVC所有通信都是单向的**
 

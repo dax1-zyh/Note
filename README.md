@@ -145,6 +145,8 @@
 
 [react路由传递参数的几种方法.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/React/react路由传递参数的几种方法.md)
 
+[纯函数和高阶函数.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/React/纯函数和高阶函数.md)
+
 
 
 ## HTML系列

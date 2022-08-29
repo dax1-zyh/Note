@@ -67,6 +67,8 @@
 
 ## Vue系列
 
+[图解MVC、MVP、MVVM.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/Vue/图解MVC、MVP、MVVM.md)
+
 [10分钟读懂数据响应式和双向绑定原理.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/Vue/10分钟读懂数据响应式和双向绑定原理.md)
 
 [v-for为什么要加key.md](https://github.com/dax1-zyh/Note/blob/main/Vue/v-for为什么要加key.md)
@@ -300,12 +302,6 @@
 [无重复字符的最长子串.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/算法/无重复字符的最长子串.md)
 
 [反转链表.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/算法/反转链表.md)
-
-
-
-## 框架
-
-[图解MVC、MVP、MVVM.md](https://github.com/dax1-zyh/Note/blob/main/框架/图解MVC、MVP、MVVM.md)
 
 
 

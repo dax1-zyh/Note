@@ -151,6 +151,8 @@
 
 [redux入门详解.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/React/redux入门详解.md)
 
+[react中setState更新状态的两种方式.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/React/react中setState更新状态的两种方式.md)
+
 
 
 ## HTML系列

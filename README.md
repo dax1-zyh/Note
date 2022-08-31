@@ -149,6 +149,8 @@
 
 [纯函数和高阶函数.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/React/纯函数和高阶函数.md)
 
+[redux入门详解.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/React/redux入门详解.md)
+
 
 
 ## HTML系列

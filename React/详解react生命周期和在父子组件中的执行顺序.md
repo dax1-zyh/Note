@@ -75,7 +75,7 @@ componentDidUpdate(prevProps, prevState, snapshot) {
 ## 新版生命周期
 react 打算在17版本推出新的 `Async Rendering（异步渲染）`，提出一种可被打断的生命周期，而可以被打断的阶段正是实际 `dom` 挂载之前的虚拟 `dom` 构建阶段，也就是要被去掉的三个生命周期。
 
-- 废弃了三个生命周期：`componentWillMount`,`componentWillUpdate`,`componentWillUnmount`
+- 废弃了三个生命周期：`componentWillMount`,`componentWillReceiveProps`,`componentWillUpdate`
 - 新增了两个生命周期：`static getDerivedStateFromProps(nextProps, prevState)`，`getSnapshotBeforeUpdate(prevProps, prevState)`
 
 

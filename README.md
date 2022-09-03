@@ -161,6 +161,8 @@
 
 [理解受控组件和非受控组件.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/React/理解受控组件和非受控组件.md)
 
+[react性能优化方案.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/React/react性能优化方案.md)
+
 
 
 ## HTML系列

@@ -9,9 +9,7 @@ react 生命周期指的是组件从创建到卸载的整个过程，每个过�
 
 ## 旧版生命周期
 
-![在这里插入图片描述](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/df9e862e253e4c8ebbba5d2e245b7989~tplv-k3u1fbpfcp-zoom-1.image)
-
-
+![在这里插入图片描述](https://img-blog.csdnimg.cn/1ec27685ac7646b4a4fbb99a1b153c04.png)
 
 - 挂载阶段：`componentWillMount` - `render` - `componentDidMount`
 - 更新阶段：`componentWillReceiveProps` - `shouldComponentUpdate` - `componentWillUpdate` - `render` - `componentDidUpdate`
@@ -72,9 +70,7 @@ componentDidUpdate(prevProps, prevState, snapshot) {
 卸载阶段唯一的生命周期钩子，通常在这里处理一些善后工作，例如关闭定时器、取消监听等等
 
 ## 旧版生命周期执行流
-![image-20220903121025143](/Users/dax1/Library/Application Support/typora-user-images/image-20220903121025143.png)
-
-
+![在这里插入图片描述](https://img-blog.csdnimg.cn/8e2199c9e7d24f859c0cc72f7102a83f.png)
 
 ## 新版生命周期
 react 打算在17版本推出新的 `Async Rendering（异步渲染）`，提出一种可被打断的生命周期，而可以被打断的阶段正是实际 `dom` 挂载之前的虚拟 `dom` 构建阶段，也就是要被去掉的三个生命周期。
@@ -82,11 +78,8 @@ react 打算在17版本推出新的 `Async Rendering（异步渲染）`，提出
 - 废弃了三个生命周期：`componentWillMount`,`componentWillUpdate`,`componentWillUnmount`
 - 新增了两个生命周期：`static getDerivedStateFromProps(nextProps, prevState)`，`getSnapshotBeforeUpdate(prevProps, prevState)`
 
-![image-20220903121107719](/Users/dax1/Library/Application Support/typora-user-images/image-20220903121107719.png)
 
-
-
-
+![在这里插入图片描述](https://img-blog.csdnimg.cn/113e3f28553242b8bb16d1b9289de6bd.png)
 
 - 挂载阶段：`getDerivedStateFromProps` - `render` - `componentDidMount`
 - 更新阶段：`getDerivedStateFromProps` - `shouldComponentUpdate` - `render` - `getSnapShotBeforeUpdate` - `componentDidUpdate`
@@ -155,4 +148,4 @@ react 打算在17版本推出新的 `Async Rendering（异步渲染）`，提出
 ## 参考文档
 [React 框架生命周期（类组件与函数组件）](https://juejin.cn/post/6871728918643081230#heading-7)
 
-[深入详解React生命周期](https://juejin.cn/post/6914112105964634119#heading-25)
+[深入详解React生命周期](https://juejin.cn/post/6914112105964634119#heading-25)https://juejin.cn/post/6914112105964634119#heading-25)

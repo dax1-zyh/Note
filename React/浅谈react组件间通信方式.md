@@ -138,6 +138,7 @@ export default Parent1;
 
 ## 祖孙组件间通信（跨级通信）
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/9c8b0a6f67414c0f963044eaf7d7fe03.png)
+
 组件A与组件C之间即跨级通信
 
 ### 1. 使用props层层传递

@@ -1,0 +1,6 @@
+- 优化`shouldComponentUpdate`生命周期的逻辑，避免不要的渲染和`dom`操作
+- 在`componentWillUnmount`生命周期阶段，清楚定时器、订阅、监听等操作
+- 为列表数据添加唯一标识`key`
+- 使用`PureComponent`和`memo`减少子组件的重复渲染
+- 路由懒加载
+- 为组件创建错误边界

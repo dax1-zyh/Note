@@ -301,3 +301,7 @@ render(
 - redux组件直接访问`Store`，react-redux组件通过`connect()`连接容器组件和展示组件
 - 获取`State`的方式不一样，redux使用`store.getState()`，react-redux使用`mapStateToProps`函数传递
 - 触发`action`的方式不一样，redux使用`store.dispatch()`，react-redux使用`mapDispatchToProps`函数传递
+
+## redux的缺点
+- 一个组件所需要的数据，必须由父组件传过来，而不能像`flux`中直接从`store`取。
+- 当一个组件相关数据更新时，即使父组件不需要用到这个组件，父组件还是会重新`render`，可能会有效率影响，或者需要写复杂的`shouldComponentUpdate`进行判断。

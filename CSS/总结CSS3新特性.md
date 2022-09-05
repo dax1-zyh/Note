@@ -1,7 +1,9 @@
 ## 盒子模型
+
 CSS3中新增了`box-sizing`属性，有两个值分别为`border-box`和`content-box`
-- content-box:也称IE盒模型，特点是 width = content + padding +border
-- border-box:也称标准和模型，特点是width = content
+
+- content-box:默认值，也称标准盒模型，特点是 `width = content`
+- border-box:也称IE盒模型，特点是`width = content + padding + margin`
 
 
 ## 新选择器

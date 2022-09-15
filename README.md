@@ -239,6 +239,8 @@
 
 [后端返回数万条数据，前端如何高效渲染.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/手写/后端返回数万条数据，前端如何高效渲染.md)
 
+[JS实现简易观察者模式.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/手写/JS实现简易观察者模式.md)
+
 
 
 ## 浏览器与HTTP

@@ -137,6 +137,8 @@
 
 [浅谈路由懒加载的实现与原理.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/Vue/浅谈路由懒加载的实现与原理.md)
 
+[Vue2升级到Vue3应该知道的事.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/Vue/Vue2升级到Vue3应该知道的事.md)
+
 
 
 ## React系列

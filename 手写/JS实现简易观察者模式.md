@@ -10,7 +10,7 @@ class Subject {
         this.observers.push(observer)
     }
     unsubscribe(observer){
-        this.observers.filter(item => {
+        this.observers = this.observers.filter(item => {
             return item !== observer
         })
     }

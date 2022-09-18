@@ -243,6 +243,8 @@
 
 [JS实现简易观察者模式.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/手写/JS实现简易观察者模式.md)
 
+[使用promise实现请求重试.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/手写/使用promise实现请求重试.md)
+
 
 
 ## 浏览器与HTTP

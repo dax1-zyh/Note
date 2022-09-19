@@ -245,6 +245,8 @@
 
 [使用promise实现请求重试.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/手写/使用promise实现请求重试.md)
 
+[js实现数组扁平化的五种方法.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/手写/js实现数组扁平化的五种方法.md)
+
 
 
 ## 浏览器与HTTP

@@ -37,8 +37,8 @@ let a = new Observer('用户A')
 let b = new Observer('用户B')
 
 // 订阅观察者
-sub.add(a)
-sub.add(b)
+sub.subscribe(a)
+sub.subscribe(b)
 
 // 发布消息
 sub.setState('新发布内容')

@@ -141,6 +141,8 @@
 
 [路由query和params参数的区别.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/Vue/路由query和params参数的区别.md)
 
+[Vue如何进行权限管理.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/Vue/Vue如何进行权限管理.md)
+
 
 
 ## React系列

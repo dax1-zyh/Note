@@ -143,6 +143,8 @@
 
 [Vue如何进行权限管理.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/Vue/Vue如何进行权限管理.md)
 
+[vue实现支持v-model的component.md](https://github.com/dax1-zyh/Steps-to-Master/blob/main/Vue/vue实现支持v-model的component.md)
+
 
 
 ## React系列

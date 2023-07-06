@@ -40,7 +40,7 @@
             const item = arr[i].split('=')
             result[item[0]] = item[1]
         }
-        return result
+        return result[query]
     }
 
     const res = getQuery('https://www.google.com/search?a=123&b=adbxo213&c=UTF-8','a')
